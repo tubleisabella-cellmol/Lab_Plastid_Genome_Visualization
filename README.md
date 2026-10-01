@@ -1,12 +1,20 @@
 # Lab: Visualize Plastid Genome Structure
 
 **Name:** Isabella Tuble
+
 **Course/Section:** Cell and Molecular Biology, A
+
 **Plant:** *Hibiscus syriacus* L. (Malvaceae)
+
 **NCBI accession:** NC_026909.1 (RefSeq)
+
 **Plastid genome length:** 161,019 bp
-**Genome file source:** NCBI Nucleotide, downloaded as GenBank (full) from https://www.ncbi.nlm.nih.gov/nuccore/NC_026909.1
+
+**Genome file source:** NCBI Nucleotide, downloaded as GenBank (full) from 
+https://www.ncbi.nlm.nih.gov/nuccore/NC_026909.
+
 **Software:** OGDRAW (OrganellarGenomeDRAW), https://chlorobox.mpimp-golm.mpg.de/OGDraw.html
+
 **Date:** 1 October 2026
 
 ## OGDRAW settings
